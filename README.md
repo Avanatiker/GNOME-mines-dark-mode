@@ -13,4 +13,4 @@ Mines will detect the new theme and you can select it in the `Appearance` settin
 
 ## Screenshot
 
-<img src="https://cdn.discordapp.com/attachments/847342544659939398/851672098636038174/unknown.png">
+<img src="https://raw.githubusercontent.com/Avanatiker/GNOME-mines-dark-mode/main/screenshot.png">
